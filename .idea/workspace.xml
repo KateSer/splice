@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="327b8d0a-d961-4fd2-8074-187a6f15562a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/hooks/applypatch-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/hooks/commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/hooks/fsmonitor-watchman.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/hooks/post-update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/hooks/pre-applypatch.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/hooks/pre-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/hooks/pre-merge-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/hooks/pre-push.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/hooks/pre-rebase.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/hooks/pre-receive.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/hooks/prepare-commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/hooks/update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/info/exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/0e/b6614aa995c9ba5aaee0a097f9bcc93d5b9b45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/1a/6a18e7d8b563f9a5a456fc030fb151fceb99da" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/1b/47f04fde22352e470526b1275cee93353a31b1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/26/d33521af10bcc7fd8cea344038eaaeb78d0ef5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/2a/1534ed4db651c61e0f48e58795ca2e1b7628ce" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/32/93fe9835f44f7691be8f50ef680c2490da52d8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/33/cfb23bd8f99308e0221a73ebf94c8b39663fbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/4b/661a5ffc3c46924b456f0eac25ea4c6e9b4047" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/51/ce20e635d63acf10c9c09306df9a5163c1169d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/6a/510dd908c7cc706838c49292cef03141a62962" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/74/4289df7500a556ea155fdc0d866a5b5fc2d36b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/78/b2cc53b203f0b97534bb1184cdc7b474339fb4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/7e/2e464098a9d99c34eaa5af8bc8276d6744cd5e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/92/d9bbf317b8b231f0f65eb80116ad469780985d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/92/db10ec5f626c1d71395e22d821d6def6e41282" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/a3/6eeef761b209ea8e3e142b9ca99df7ade9d5a6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/b0/9547561aa576bc16f8a342db29d687ca36a209" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/c0/44673e4434891d6ed389d9886962980a605906" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/c6/95b63f5ac59fcd29deab88b66b4c1ac4e76d1f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/cf/8e548e0a02f9d21bc14d3aab43705fefc3313d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/d9/3b1e5dab211d26582ed04f86f60d139c74159f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/e0/56770190542ac13099b811362f36d81bb29cb0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/e9/6534fb27b68192f27f985d3879e173ec77adb8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/f3/1383a831987ed4e78af0c3ed6ecad6e31dc0b1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/f6/d6ea1f661c4b2c929935c9e78b245e0c2cdc5c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/fa/b095e8b4cdeaab53d4eec1a46c0163aac7c2c4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/fa/de66b8c1f5edc35c6a06be6228556d34bc598d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/fb/7bd8408f8fa06f3ba0c824d7f420b626a97de9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/objects/fd/9de837a86e586d57bad4ede528bc1b329740e4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdstreet.git/packed-refs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Rhnz0PC4fhvEnaDrX5lTbMmuTK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3586207" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/drivers" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testRunner" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: Filter Paid Plugins with API">
+    <configuration name="Scenario: Filter Paid Plugins with API (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/plugins.feature" />
+      <option name="GLUE" value="stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Splice" />
+      <option name="NAME_FILTER" value="^Filter Paid Plugins with API$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Filter Paid Plugins with API$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Filter Paid Plugins with API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Filter Paid Plugins with API" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/plugins.feature" />
+      <option name="GLUE" value="stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="splice1" />
+      <option name="NAME_FILTER" value="^Filter Paid Plugins with API$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Filter Paid Plugins with API$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Filter Paid Plugins with API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="GLUE" value="stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Splice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="splice1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testScenarioRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Splice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner.testScenarioRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testScenarioRunnerSmoke" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="splice1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner.testScenarioRunnerSmoke" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Splice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Splice" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Scenario: Filter Paid Plugins with API (1)" />
+      <item itemvalue="Cucumber Java.Scenario: Filter Paid Plugins with API" />
+      <item itemvalue="JUnit.testScenarioRunner" />
+      <item itemvalue="JUnit.testRunner" />
+      <item itemvalue="JUnit.testScenarioRunnerSmoke" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Filter Paid Plugins with API" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="327b8d0a-d961-4fd2-8074-187a6f15562a" name="Default Changelist" comment="" />
+      <created>1570128453325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570128453325</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="MAXIMUM_HISTORY_ROWS" value="960" />
+    <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>
